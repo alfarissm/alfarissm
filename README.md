@@ -60,7 +60,7 @@
   <img width=390 src="https://streak-stats.demolab.com?user=AlFaris2211&theme=tokyonight&mode=weekly)](https://git.io/streak-stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=AlFaris2211&show_icons=true&theme=tokyonight" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlFariz2211&hide_progress=true" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlFaris2211&hide_progress=true" />
 </div>
 
 <br/><br/>
