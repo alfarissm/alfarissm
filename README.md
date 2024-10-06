@@ -58,7 +58,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com?user=AlFaris2211&theme=tokyonight&mode=weekly)](https://git.io/streak-stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AlFaris2211&show_icons=true&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats&theme=tokyonight" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AlFaris2211&show_icons=true&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlFaris2211&hide_progress=true&theme=tokyonight" />
 </div>
