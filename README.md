@@ -51,7 +51,7 @@
     <br/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=alffariss&show_icons=true&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alffariss&hide_progress=true&theme=tokyonight" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alffariss&hide_progress=true&theme=tokyonight" />
 </div>
 
 <br/><br/>
