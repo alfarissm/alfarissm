@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently Studying on **University**
+ 🔭 I’m currently Studying on **Jaya Development University**
  
  🌱 I’m currently learning **Java, Python, C++**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here]()**
+💬 Ask me about **Something [here]()**
 
 ⚡ Fun fact **I'm diligent, I sleep diligently**
 
