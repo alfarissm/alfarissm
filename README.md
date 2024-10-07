@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alffariss.alffariss" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=malfariss.malfariss" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+AlFaris!;" />
@@ -27,7 +27,7 @@
   <a href="https:" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://alffariss.github.io" target="_blank">
+  <a href="https://malfariss.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -47,11 +47,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=alffariss&theme=tokyonight&mode=weekly)](https://git.io/streak-stats"/>
+  <img width=390 src="https://streak-stats.demolab.com?user=malfariss&theme=tokyonight&mode=weekly)](https://git.io/streak-stats"/>
     <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=alffariss&show_icons=true&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=malfariss&show_icons=true&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alffariss&hide_progress=true&theme=tokyonight" />
+  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malfariss&hide_progress=true&theme=tokyonight" />
 </div>
 
 <br/><br/>
