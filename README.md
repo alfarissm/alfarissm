@@ -12,7 +12,7 @@
  
  🔭 I’m currently Studying on **Jaya Development University**
  
- 🌱 I’m currently learning **Java, Python, C++**
+ 🌱 I’m currently learning **Typescript, Python, React**
 
 💬 Ask me about **Something [here]()**
 
