@@ -51,8 +51,8 @@
     <br/> -->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=alfarissm&show_icons=true&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfarissm&show_progress=true&theme=react" />
-</div>
+<!--   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfarissm&show_progress=true&theme=react" />
+</div> -->
 
 <br/><br/>
 
