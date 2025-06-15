@@ -49,9 +49,9 @@
 <div align=center>
 <!--   <img width=390 src="https://streak-stats.demolab.com?user=alfarissm&theme=tokyonight&mode=weekly)](https://git.io/streak-stats"/>
     <br/> -->
-  <img width 390 src="https://streak-stats.demolab.com/?user=alfarissm&count_private=true&theme=react"/>
+  <img width 390 src="https://streak-stats.demolab.com/?user=alfarissm&count_private=true&theme=tokyonight"/>
   <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=alfarissm&show_icons=true&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=alfarissm&show_icons=true&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=390 align = "center" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=alfarissm&layout=compact&count_private=true&theme=tokyonight"/>
 <!--   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfarissm&show_progress=true&theme=react" />
