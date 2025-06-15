@@ -2,7 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Yo!+🙌;+I'm+AlFaris!;" />
 </h1>
-<h3 align="left"> ♨️ I Studied Software Development ♨️ </h3>
+<h1 align="center"> ♨️ I Studied Software Development ♨️ </h1>
 <!--   <a href="email:muhamadalfariz2211@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
