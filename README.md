@@ -21,7 +21,7 @@
 <h3 align="left">📱 Software App Dev </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react-native,flutter,kotlin" />
+    <img src="https://skillicons.dev/icons?i=react,flutter,kotlin" />
   </a>
 <h3 align = "left"> 📂 Contribution</h3>
 <img src="https://raw.githubusercontent.com/alfarissm/alfarissm/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
