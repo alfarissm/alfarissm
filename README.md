@@ -17,11 +17,12 @@
 <h3 align="left">Mobile App Dev</h3>
 <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
 <h3 align="cleft">Stats</h3>
-<div align=center>
+<div align=left>
 <!--   <img width=390 src="https://streak-stats.demolab.com?user=alfarissm&theme=tokyonight&mode=weekly)](https://git.io/streak-stats"/>
     <br/> -->
 <!--   <img width=390 align = "left" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=alfarissm&layout=compact&count_private=true&theme=tokyonight"/> -->
-  <img width 390 align= "left" src="https://streak-stats.demolab.com/?user=alfarissm&count_private=true&theme=tokyonight"/>
+<!--   <img width 390 align= "left" src="https://streak-stats.demolab.com/?user=alfarissm&count_private=true&theme=tokyonight"/> -->
+    <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=alfarissm&theme=tokyo-night" alt="Activity Graph" />
   <br/>
 <!--   <img width=390 src="https://github-readme-stats.vercel.app/api?username=alfarissm&show_icons=true&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/> -->
