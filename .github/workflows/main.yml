@@ -13,6 +13,10 @@ on:
     branches:
     - main
 
+# Make sure the workflow has write permissions
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
