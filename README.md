@@ -29,7 +29,7 @@
 <!--   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfarissm&show_progress=true&theme=react" />
 </div> -->
 <!-- GitHub Snake Dark -->
-![Snake animation](https://raw.githubusercontent.com/alfarissm/alfarissm/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/alfarissm/alfarissm/output/github-contribution-grid-snake-dark.svg?cache=false)
 
 
 
