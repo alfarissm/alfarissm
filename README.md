@@ -32,7 +32,7 @@
 <img widht="100" src="https://raw.githubusercontent.com/alfarissm/alfarissm/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 <h3 align="left">📊 Stats </h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alfarissm&theme=tokyo-night" alt="Activity Graph" />
+<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=alfarissm&theme=tokyo-night" alt="Activity Graph" />
 
 <h3 align="left">🎧 Spotify Song</h3>
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ev7u2q6cmn6iuzcbodv2l3q5se&unique=1" alt="Spotify Recently Played" width="400"/>
