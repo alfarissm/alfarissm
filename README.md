@@ -28,12 +28,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
-<h3 align="left">🎧 Currently Listening on Spotify </h3>
-<p align="left">
-  <a href="https://open.spotify.com/user/boarcub" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=boarcub&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</p>
 <h3 align = "left"> 📂 Contribution</h3>
 <img src="https://raw.githubusercontent.com/alfarissm/alfarissm/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 <h3 align="left">📊 Stats </h3>
