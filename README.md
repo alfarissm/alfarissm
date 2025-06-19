@@ -25,8 +25,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,flutter,kotlin,swiftui" />
   </a>
+ <h3 align="right">📊 Stats </h3>   
+<img align="right" width="450" src="https://github-readme-activity-graph.vercel.app/graph?username=alfarissm&theme=tokyo-night" alt="Activity Graph" />
     
-<img align="right" width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=alfarissm&theme=tokyo-night" alt="Activity Graph" />
 <h3 align="left">📦 Devops & Tools </h3>
 <p align="left">
   <a href="https://skillicons.dev">
