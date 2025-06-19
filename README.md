@@ -23,10 +23,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,flutter,kotlin,swiftui" />
   </a>
-<h3 align="left">📦 Devops </h3>
+<h3 align="left">📦 Devops & Tools </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker" />
+        <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,postman" />
   </a>
 <h3 align = "left"> 📂 Contribution</h3>
 <img widht="100" src="https://raw.githubusercontent.com/alfarissm/alfarissm/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
