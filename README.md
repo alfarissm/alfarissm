@@ -25,16 +25,18 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,flutter,kotlin,swiftui" />
   </a>
+    
+<h3 align="right">📊 Stats </h3>
+<img align="right" width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=alfarissm&theme=tokyo-night" alt="Activity Graph" />
 <h3 align="left">📦 Devops & Tools </h3>
 <p align="left">
   <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,postman" />
   </a>
-<h3 align = "left"> 📂 Contribution</h3>
-<img widht="100" src="https://raw.githubusercontent.com/alfarissm/alfarissm/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-<h3 align="left">📊 Stats </h3>
 
-<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=alfarissm&theme=tokyo-night" alt="Activity Graph" />
+<h3 align = "left"> 📂 Contribution</h3>
+<img width="100%" src="https://raw.githubusercontent.com/alfarissm/alfarissm/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 
 <!--   <img width=390 src="https://streak-stats.demolab.com?user=alfarissm&theme=tokyonight&mode=weekly)](https://git.io/streak-stats"/>
     <br/> -->
