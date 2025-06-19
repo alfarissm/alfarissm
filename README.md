@@ -29,21 +29,19 @@
     <img src="https://skillicons.dev/icons?i=docker" />
   </a>
 <h3 align = "left"> 📂 Contribution</h3>
-<img src="https://raw.githubusercontent.com/alfarissm/alfarissm/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img widht="100" src="https://raw.githubusercontent.com/alfarissm/alfarissm/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 <h3 align="left">📊 Stats </h3>
-<div align=left>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alfarissm&theme=tokyo-night" alt="Activity Graph" />
+
+<h3 align="left">🎧 Spotify Song</h3>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31ev7u2q6cmn6iuzcbodv2l3q5se&unique=1" alt="Spotify Recently Played" width="400"/>
+
 <!--   <img width=390 src="https://streak-stats.demolab.com?user=alfarissm&theme=tokyonight&mode=weekly)](https://git.io/streak-stats"/>
     <br/> -->
 <!--   <img width=390 align = "left" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=alfarissm&layout=compact&count_private=true&theme=tokyonight"/> -->
 <!--   <img width 390 align= "left" src="https://streak-stats.demolab.com/?user=alfarissm&count_private=true&theme=tokyonight"/> -->
-    <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=alfarissm&theme=tokyo-night" alt="Activity Graph" />
-  <br/>
-<!--   <img width=390 src="https://github-readme-stats.vercel.app/api?username=alfarissm&show_icons=true&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+<!--   <img width=390 src="https://github-readme-stats.vercel.app/api?username=alfarissm&show_icons=true&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="rea[...]
   <br/> -->
 <!--   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfarissm&show_progress=true&theme=react" />
 </div> -->
-
-
-
-
-
