@@ -1,4 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alfarissm.alfarissm" />
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Yo!+🙌;+I'm+AlFaris!;" />
 </h1>
@@ -12,6 +13,7 @@
   <a href="https://alfarissm.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a> -->
+<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31ev7u2q6cmn6iuzcbodv2l3q5se&count=3&width=350" alt="Spotify Recently Played" />
 <h3 align="left">💻 Programming Languages </h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -33,9 +35,6 @@
 <h3 align="left">📊 Stats </h3>
 
 <img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=alfarissm&theme=tokyo-night" alt="Activity Graph" />
-
-<h3 align="left">🎧 Spotify Song</h3>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31ev7u2q6cmn6iuzcbodv2l3q5se&unique=1" alt="Spotify Recently Played" width="400"/>
 
 <!--   <img width=390 src="https://streak-stats.demolab.com?user=alfarissm&theme=tokyonight&mode=weekly)](https://git.io/streak-stats"/>
     <br/> -->
