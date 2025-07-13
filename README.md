@@ -1,9 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alfarissm.alfarissm" />
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alfarissm.alfarissm" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Yo!+🙌;+I'm+AlFaris!;" />
 </h1>
-<h1 align="center"> ♨️ I Studied Software Development ♨️ </h1>
+<h1 align="center"> ♨️ I Studied Software Development ♨️ </h1> -->
 <!--   <a href="email:muhamadalfariz2211@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -13,7 +13,7 @@
   <a href="https://alfarissm.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a> -->
-<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31ev7u2q6cmn6iuzcbodv2l3q5se&count=3&width=350" alt="Spotify Recently Played" />
+<!-- <img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=31ev7u2q6cmn6iuzcbodv2l3q5se&count=3&width=350" alt="Spotify Recently Played" />
 <h3 align="left">💻 Programming Languages </h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -32,9 +32,14 @@
 <p align="left">
   <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,postman" />
-  </a>
-
-<h3 align = "left"> 📂 Contribution</h3>
+  </a> -->
+- 👋 Hi, I'm Ajax
+- 🎓 I'm currently a student at Jaya Development University
+- 💻 I have a strong interest in software development and technology
+- 🤖 I'm currently learning and exploring Artificial Intelligence (AI), especially machine learning and deep learning
+</br>
+📂 Contribution
+<!-- <h3 align = "left"> 📂 Contribution</h3> -->
 <img width="100%" src="https://raw.githubusercontent.com/alfarissm/alfarissm/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 
