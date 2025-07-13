@@ -36,7 +36,7 @@
 - 👋 Hi, I'm Ajax
 - 🎓 I'm currently a student at Jaya Development University
 - 💻 I have a strong interest in software development and technology
-- 🤖 I'm currently learning and exploring Artificial Intelligence (AI), especially machine learning and deep learning
+- 🤖 I'm currently learning and exploring Artificial Intelligence (AI)
 </br>
 📂 Contribution
 <!-- <h3 align = "left"> 📂 Contribution</h3> -->
