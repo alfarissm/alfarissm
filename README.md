@@ -33,7 +33,7 @@
   <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,postman" />
   </a> -->
-- 👋 Hi, I'm Ajax
+- 👋 Hi, I'm Alfariz
 - 🎓 I'm currently a student at Jaya Development University
 - 💻 I have a strong interest in software development and technology
 - 🤖 I'm currently learning and exploring Artificial Intelligence (AI)
